@@ -1,0 +1,30 @@
+ div{
+    width: 25vw;
+    border: 1px solid blue;
+    border-radius: 30px;
+    margin: 100px auto;
+    /* height: 50vh; */
+    background-color: orangered;
+ }
+ .avatar{
+    width: 10vw;
+    height: 100px;
+    /* margin: 10px auto; */
+    background-image: url("../image/jesus\ christ.jpg");
+    background-size: cover;
+    background-position: center;
+ }
+ h3{
+   color: blue;
+   text-align: center;
+ }
+ h2{
+   text-align: center;
+ }
+ h4{
+   text-align: center;
+ }
+ .one{
+   color: aqua;
+   text-align: center;
+ }
