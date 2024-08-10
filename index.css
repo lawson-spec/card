@@ -1,0 +1,33 @@
+.grid-container{
+    /* background-color: blueviolet; */
+    border: 5px solid goldenrod;
+    display: grid;
+    gap: 10px;
+    grid-template-rows: 100px 200px;
+    grid-template-columns: 400px 800px;
+    /* grid: template rows 100px; 200px
+    grid-template-columns: 400px; 800px */
+}
+.grid-item{
+    background-color: blueviolet;
+}
+.grid-container2{
+    border: 5px solid green;
+    display: grid;
+    gap: 10px;
+    grid-template-rows: 100px 200px 400px 200px;
+    /* 150px 150px 200px 200px 250px; */
+    grid-template-columns: 300px 100px 300px 200px;
+    /* 150px 150px 200px 200px 250px; */
+
+}
+.grid-items{
+    background-color: chocolate;
+
+}
+#grid seize{
+    readme; more to come;
+    using
+    gride, gap, border ;
+}
+
