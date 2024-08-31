@@ -31,3 +31,8 @@
     gride, gap, border ;
 }
 
+@media screen and (min-width: 500px){
+    body{
+        background: black;
+    }
+}
